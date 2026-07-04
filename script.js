@@ -124,7 +124,7 @@ function  FnMusic(arr_choix, int_nb) {
           // construcion de l'élément audio à afficher 
           // Attention le nom de l'élément doit être le nom d'un fichier présent dans le repetoire Media
             str_text += " <audio controls> ";
-            str_text += '<source src="./Media/'+ arr_choix[int_choix] +'.mp3" type="audio/mpeg">';
+            str_text += '<source src="./media/'+ arr_choix[int_choix] +'.mp3" type="audio/mpeg">';
             str_text += "</audio>";
           
          str_text += "</li>";

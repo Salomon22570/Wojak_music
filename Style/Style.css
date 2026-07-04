@@ -7,7 +7,7 @@
 }
 
 body {
- background-image: url(../Media/wojakbackground.jpg);
+ background-image: url(../media/wojakbackground.jpg);
   background-size: cover;         /* couvre tout le fond */
   background-position: top;    /* centre l'image */
   background-repeat: no-repeat;   /* pas de répétition */
